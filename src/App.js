@@ -28,7 +28,6 @@ const App = () => {
 		<div className="App">
 			{/* Creat an Items component */}
 			{collection && <Items collection={collection} />}
-			test
 		</div>
 	);
 }
